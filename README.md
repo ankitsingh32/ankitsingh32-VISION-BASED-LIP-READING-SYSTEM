@@ -88,19 +88,12 @@ Or custom annotated video datasets
 
 Note: Please refer to individual dataset licenses before use.
 
-🚀 Demo (Optional)
-If you’ve built a Streamlit or Flask UI:
+🚀 Demo
 
-bash
-Copy
-Edit
-streamlit run app.py
-📈 Evaluation Metrics
-Word Error Rate (WER)
 
-Character Error Rate (CER)
+https://github.com/user-attachments/assets/a8bbca4c-f72d-4698-aa60-213bbcaccd54
 
-Accuracy / BLEU Score (for short phrases)
+
 
 🧩 Future Enhancements
 Integrate multi-language support
