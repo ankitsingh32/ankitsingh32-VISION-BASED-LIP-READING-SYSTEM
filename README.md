@@ -58,7 +58,7 @@ vision-lip-reading-nlp/
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/vision-lip-reading-nlp.git
+git clone https://github.com/ankitsingh32/VISION-BASED-LIP-READING-SYSTEM.git
 cd vision-lip-reading-nlp
 pip install -r requirements.txt
 🧪 Usage
